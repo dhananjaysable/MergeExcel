@@ -1,0 +1,16 @@
+.pyc
+.spec
+.pkg
+.toc
+.pyz
+.txt
+build
+dist
+.zip
+.exe
+.html
+.log
+.md
+.json
+.csv
+.xml
